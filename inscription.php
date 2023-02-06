@@ -1,5 +1,4 @@
 <?php
-//30:40 min
 
 $servername = 'localhost';
 $username = 'admin';
